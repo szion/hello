@@ -5,6 +5,9 @@ output: html_document
 ```{r}
 print("hello world")
 
-lm(x-y) #Change 1
+x=5
+y=3
+z=(x-y)
+print(z) #Change 1
 ```
 
